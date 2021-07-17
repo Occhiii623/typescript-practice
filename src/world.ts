@@ -8,7 +8,7 @@ export default class World {
     if (elem) {
       console.log('testメッセージ');
 
-      console.log('あああ');
+      console.log('husky+pre-commitの練習');
       elem.innerText = this.message;
     }
   }
